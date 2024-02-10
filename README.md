@@ -1,8 +1,8 @@
-## Hi there! I'm Lukas Otero 👋
+## Hi there! I'm Lukas 👋
 
 ### About me
-- :desktop_computer: Wanting to work in cybersecurity or fullstack developer
-- :seedling: Picking up C#, React JS and Linux skills
+- :desktop_computer: Wanting to work in cybersecurity
+- :seedling: Picking up Python and Linux skills
 - :books: I'm studying to be a Systems Analyst
 - :mailbox_with_mail: Get in touch: lukasn.otero@gmail.com
 

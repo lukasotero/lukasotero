@@ -1,8 +1,8 @@
 # Hi there! I’m Lukas 👋
 ## About me
-:desktop_computer: Working in Cybersecurity as a Blue Team<br>
-:seedling: Picking up some Python skills face to Cybersecurity<br>
-:books: I need the thesis to become a Systems Analyst
+🖥️ Working in Cybersecurity as a Blue Team<br>
+🌱 Picking up some Python skills face to Cybersecurity<br>
+📚 I need the thesis to become a Systems Analyst
 
 <br>
 
@@ -25,14 +25,15 @@ I’m a calm and sociable person, skilled at connecting with people from diverse
 <br>
 
 # Courses
-:soon: "Aprende Hacking Ético y Ciberseguridad de manera práctica, ¡conviértete en un experto en Hacking Ético y Ciberseguridad!" (??)<br>
-:white_check_mark: "Bash - Intérprete de Comandos de Linux. Aprende desde cero" (2024/02)<br>
-:white_check_mark: "Fundamentos de Redes. Como se realizan las Comunicaciones" (2024/02)<br>
-:white_check_mark: "Introducción a Linux" (2020/05)<br>
-:white_check_mark: "Introducción a Redes" (2020/05)<br>
-:white_check_mark: "Introducción a Bases de Datos y SQL" (2020/04)<br>
-:white_check_mark: "Introducción a la Seguridad Informática" (2020/04)<br>
-:white_check_mark: "Fundamentos de la Programación" (2019/03)<br>
+🔜 "CCNA" Certification (??)<br>
+✅ "Aprende Hacking Ético y Ciberseguridad de manera práctica, ¡conviértete en un experto en Hacking Ético y Ciberseguridad!" (2024/10)<br>
+✅ "Bash - Intérprete de Comandos de Linux. Aprende desde cero" (2024/02)<br>
+✅ "Fundamentos de Redes. Como se realizan las Comunicaciones" (2024/02)<br>
+✅ "Introducción a Linux" (2020/05)<br>
+✅ "Introducción a Redes" (2020/05)<br>
+✅ "Introducción a Bases de Datos y SQL" (2020/04)<br>
+✅ "Introducción a la Seguridad Informática" (2020/04)<br>
+✅ "Fundamentos de la Programación" (2019/03)<br>
 
 If you want to know more, feel free to visit my LinkedIn.
 

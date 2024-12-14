@@ -2,7 +2,7 @@
 ## About me
 🖥️ Working in Cybersecurity as a Blue Team<br>
 🌱 Picking up some Python skills face to Cybersecurity<br>
-📚 I need the thesis to become a Systems Analyst
+📚 I'm Systems Analyst
 
 <br>
 
